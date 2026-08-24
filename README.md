@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/zBTigoZ3scnEWvU9m4/giphy.gif](https://giphy.com/gifs/bandainamco-one-piece-luffy-episode-1000-zBTigoZ3scnEWvU9m4)" width="100%" alt="Luffy Haki GIF">
+  <img src="https://i.giphy.com/zBTigoZ3scnEWvU9m4.gif" width="100%" alt="Luffy Haki GIF">
   
+  <br/>
   <br/>
   
   # Ahoy! Saya Putu Adi Cahya Mahendra 🏴‍☠️
