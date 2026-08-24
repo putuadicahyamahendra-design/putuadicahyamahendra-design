@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/C3brYLbGwqY0U/giphy.gif" width="250" alt="Luffy GIF">
+  <!-- Ganti "LINK_GAMBAR_GIF_HAKI_KAMU" dengan URL dari GIF Luffy yang sudah kamu upload ke repo GitHub-mu -->
+  <img src="![Uploading One Piece Conquerors Haki GIF.gif…]()
+" width="100%" alt="Luffy Haki GIF">
+  
+  <br/>
   
   # Ahoy! Saya Putu Adi Cahya Mahendra 🏴‍☠️
   
