@@ -1,7 +1,5 @@
 <div align="center">
-  <!-- Ganti "LINK_GAMBAR_GIF_HAKI_KAMU" dengan URL dari GIF Luffy yang sudah kamu upload ke repo GitHub-mu -->
-  <img src="[![Uploading One Piece Conquerors Haki GIF.gif…]()](https://giphy.com/gifs/bandainamco-one-piece-luffy-episode-1000-zBTigoZ3scnEWvU9m4)
-" width="100%" alt="Luffy Haki GIF">
+  <img src="https://media.giphy.com/media/zBTigoZ3scnEWvU9m4/giphy.gif" width="100%" alt="Luffy Haki GIF">
   
   <br/>
   
@@ -28,7 +26,7 @@
 - 👯 Siap berkolaborasi dalam proyek **Open Source & Desain Kreatif**
 - 💬 Tanyakan apa saja tentang **Desain, HTML, CSS, atau JavaScript**
 - 📫 Den Den Mushi (Kontak): **[Email kamu]** atau **[Link LinkedIn kamu]**
-- ⚡ Fakta Unik: **[Masukkan hobi atau fakta unikmu, misal: Saya bisa ngoding sambil minum 3 gelas kopi!]**
+- ⚡ Fakta Unik: **[Masukkan hobi atau fakta unikmu]**
 
 <br/>
 
@@ -45,17 +43,20 @@
 
 <br/>
 
+### 💰 Bounty & Reputasi (Statistik GitHub)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=putuadicahyamahendra-design&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=putuadicahyamahendra-design&theme=dracula&hide_border=true" width="48%" />
+</div>
+
 <br/>
 
 ### 🐍 Monster Laut di Grafik Kontribusi (Snake Game)
-Berikut adalah ular yang sedang melahap aktivitas kontribusi saya!
+Berikut adalah monster laut yang sedang melahap aktivitas kontribusi saya!
 <div align="center">
-  <!-- Gambar ini akan muncul setelah kamu mengatur GitHub Actions -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/putuadicahyamahendra-design/putuadicahyamahendra-design/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/putuadicahyamahendra-design/putuadicahyamahendra-design/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/putuadicahyamahendra-design/putuadicahyamahendra-design/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<br/>
