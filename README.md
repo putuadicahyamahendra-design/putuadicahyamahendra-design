@@ -55,8 +55,3 @@ Berikut adalah ular yang sedang melahap aktivitas kontribusi saya!
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/4cuyucPeVWbNS/giphy.gif" width="250" alt="Zoro GIF">
-  <p><i>"A crew that has no respect for its captain is destined to collapse." - Roronoa Zoro</i></p>
-</div>
