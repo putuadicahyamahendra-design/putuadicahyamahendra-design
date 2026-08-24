@@ -26,8 +26,8 @@
 - 🌱 Saat ini sedang mempelajari **[Teknologi/Framework yang sedang dipelajari]**
 - 👯 Siap berkolaborasi dalam proyek **Open Source & Desain Kreatif**
 - 💬 Tanyakan apa saja tentang **Desain, HTML, CSS, atau JavaScript**
-- 📫 Den Den Mushi (Kontak): **[Email kamu]** atau **[Link LinkedIn kamu]**
-- ⚡ Fakta Unik: **[Masukkan hobi atau fakta unikmu]**
+- 📫 Den Den Mushi (Kontak): **putuadicahyamahendra@gmail.com**
+- ⚡ Fakta Unik: **Hobi Olah Raga**
 
 <br/>
 
