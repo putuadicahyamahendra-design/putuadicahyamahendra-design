@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/zBTigoZ3scnEWvU9m4.gif" width="100%" alt="Luffy Haki GIF">
+  <img src="[https://i.giphy.com/zBTigoZ3scnEWvU9m4.gif](https://media.tenor.com/bOq_7Xp_e4sAAAAd/one-piece-swordsman.gif)" width="100%" alt="Luffy Haki GIF">
   
   <br/>
   <br/>
