@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ganti "LINK_GAMBAR_GIF_HAKI_KAMU" dengan URL dari GIF Luffy yang sudah kamu upload ke repo GitHub-mu -->
-  <img src="![Uploading One Piece Conquerors Haki GIF.gif…]()
+  <img src="[![Uploading One Piece Conquerors Haki GIF.gif…]()](https://giphy.com/gifs/bandainamco-one-piece-luffy-episode-1000-zBTigoZ3scnEWvU9m4)
 " width="100%" alt="Luffy Haki GIF">
   
   <br/>
